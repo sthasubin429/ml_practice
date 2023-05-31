@@ -1,4 +1,0 @@
-name: ml_practice
-channels:
-  - defaults
-prefix: /home/kamekaze/anaconda3/envs/ml_practice
